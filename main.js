@@ -64,7 +64,7 @@ function loadData() {
         }
     }
 
-    // Send request
+    //  request
     request.send();
 
 }
